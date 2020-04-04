@@ -11,6 +11,8 @@ Welcome to EV3 MakeCode's documentation!
    :caption: Contents:
 
    1_intro/intro
+   2_sensor/sensor
+   3_motor/motor
 
 
 

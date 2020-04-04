@@ -1,0 +1,6 @@
+Notes
+=====
+
+- sensors
+- motors
+- music

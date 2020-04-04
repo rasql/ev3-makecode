@@ -1,58 +1,33 @@
 Introduction
 ============
 
-Ce tutoriel est une introducation à la programmation du robot **LEGO MINDSTORMS EV3**
-utilsant le language graphique **Microsoft MakeCode**.
+This tutorial is an introduction on how to program the **LEGO MINDSTORMS EV3**
+robot with **Microsoft MakeCode**.
 
-Pour programmer ton robot tu dois dois aller sur le site: 
+The language **MakeCode** is a graphical language where you assemble blocks to tell the robot what to do.
+All the programming is done online using the following site.
 
 https://makecode.mindstorms.com/#editor 
 
-La programmation est entièrement online.
+Hello world
+-----------
 
+It is a tradition for most tutorials to start with a program which 
+displays **Hello world** on the screen. Here it is.
 
-Associer une image à chaque bouton
-----------------------------------
+.. image:: hello1.png
 
-Dans ce programme nous association chaqun des 5 boutons avec
+When you run it the simulator dispays this.
 
-- une image
-- un son
-- une lumière clignotante
+.. image:: hello1s.png
 
-.. image:: intro1.png
-
-Nous pouvons aussi tester le résultat dans le programmation
-
-.. image:: intro1_gui.png
-
-Share project
+Show the mood
 -------------
 
-Link
-----
+Now let's use the center button to display the mood of the robot.
 
-https://makecode.com/_Ky46q7HK85bi
+.. image:: hello2.png
 
-Code
-----
+When you press the center button, the robot will display this image.
 
-.. raw:: html
-
-    <div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;">
-    <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.mindstorms.com/---codeembed#pub:_Ky46q7HK85bi" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
-
-Editor
-------
-
-.. raw:: html
-
-    <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.mindstorms.com/#pub:_Ky46q7HK85bi" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
-
-
-Simulator
----------
-
-.. raw:: html
-
-    <div style="position:relative;height:0;padding-bottom:200.0%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.mindstorms.com/---run?id=_Ky46q7HK85bi" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+.. image:: hello2s.png
