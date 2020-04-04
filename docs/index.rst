@@ -13,6 +13,7 @@ Welcome to EV3 MakeCode
    1_intro/intro
    2_sensor/sensor
    3_motor/motor
+   4_music/music
 
 
 
