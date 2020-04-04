@@ -1,12 +1,11 @@
 Sensors
 =======
 
-The EV3 has multiple sensors
+The EV3 has multiple sensors such as:
 
-- tactile sensor
+- touch sensor
 - color sensor
-- reflected light
-- ambient light sensor
+- light sensor
 - gyro sensor
 - ultrasonic sensor
 
