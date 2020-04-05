@@ -81,6 +81,11 @@ Finally we program the **left/right** buttons to increase or decrease the volume
 
 .. image:: music3c.png
 
+You can download this file.
+
+:download:`lego-music.uf2 <lego-music.uf2>`
+
+
 
 
 

@@ -68,6 +68,11 @@ Once you connect the EV3 via a USB cable to your computer, it appears as a hard-
 
 .. image:: ev3_hd.png
 
+
+
+
+
+
 In order to download a program to the brick, click on the **Download** button.
 If you have a project called **intro** this will download a file called **intro.uf2**.
 To install the file on the EV3 you must place the file inside the EV3 disk icon.
@@ -79,5 +84,38 @@ You can either
 
 - automatically save to the **EV3** drive
 - ask each time for the destination
+
+Upgrade the brick firmware
+--------------------------
+
+If the EV3 icon does not appear on your desktop, you must probably upgrade the firmware (FW) of your brick.
+You can check the firmware on the brick under
+
+- **Settings** top menu (all to the right)
+- **Brick info** sub-menu (the fifth)
+- **Brick FW**: V1.09H (H=Home, E=Education)
+
+You need to have V1.10E or more.
+
+Go to the online EV3 Device manager at the following adresse:
+https://ev3manager.education.lego.com
+
+The message shows the outdated firmware and allows you to update.
+
+.. image:: ev3_update.png
+
+A second message appears
+
+.. image:: ev3_update2.png
+
+Go ahead with the update and follow the instructions.
+Once the upgrade is finished, you arrive on this screen.
+
+.. image:: ev3_manager.png
+
+
+
+
+
 
 
