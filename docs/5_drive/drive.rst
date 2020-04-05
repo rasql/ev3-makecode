@@ -16,8 +16,8 @@ At this point we can test the display and the presence of the two large motors.
 .. image:: drive1s.png
 
 
-Move forward and backwards
---------------------------
+Move forward and backward
+-------------------------
 
 The robot moves forward if both motors turn forward (50%) at the same speed.
 The robot moves backward if both motors turn backward (-50%) together.
@@ -67,8 +67,8 @@ The result on the screen will be this
 
 .. image:: drive_screen.png
 
-Drive a square
---------------
+Drive along a square
+--------------------
 
 We repeat 4 times inside a loop a straight segment and a 90-degrees turning segment.
 The robot will execute a square trajectory.

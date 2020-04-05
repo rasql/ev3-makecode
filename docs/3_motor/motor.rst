@@ -24,8 +24,8 @@ Before downloading the program to the brick, you can test it in the simulation.
 .. image:: motor1s.png
 
 
-Change motor speed
-------------------
+Change the motor speed
+----------------------
 
 Make a new program called **motor2**.
 This time we will include that name in the welcome screen.

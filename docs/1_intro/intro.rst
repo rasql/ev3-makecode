@@ -72,11 +72,6 @@ Once you connect the EV3 via a USB cable to your computer, it appears as a hard-
 
 .. image:: ev3_hd.png
 
-
-
-
-
-
 In order to download a program to the brick, click on the **Download** button.
 If you have a project called **intro** this will download a file called **intro.uf2** to your download folder.
 To run the file on the EV3 you must transfer the file inside the EV3 disk icon.
@@ -89,8 +84,8 @@ You can either
 - automatically save to the **EV3** drive,
 - ask each time for the destination.
 
-Upgrade the brick firmware
---------------------------
+Upgrade the  firmware
+---------------------
 
 If the EV3 icon does not appear on your desktop, you must probably upgrade the firmware (FW) of your brick.
 You can check the firmware on the brick under

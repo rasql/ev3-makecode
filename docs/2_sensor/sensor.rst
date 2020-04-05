@@ -21,7 +21,6 @@ When you click with the mouse on the touch sensor icon, the image and the sound 
 
 .. image:: touch1s.png
 
-
 Connect the touch sensor to port 1.
 When you press the touch sensor, a heart is displayed.
 When you release the touch sensor, the screen is cleared.
@@ -38,7 +37,7 @@ When you place a red LEGO brick in front of the sensor, it says *red*.
 .. image:: sensor2.png
 
 
-Show values to the screen
+Show values on the screen
 -------------------------
 
 You can use a **forever** loop to write the sensor values to the screen.
