@@ -12,7 +12,7 @@ The EV3 has multiple sensors such as:
 Touch sensor
 ------------
 
-Each time you press the touch sensor, the eyes with hearts appear and a sound is made.
+Each time you press the touch sensor, the eyes with the hearts appear and a sound is played.
 
 .. image:: touch1.png
 
@@ -31,15 +31,15 @@ When you release the touch sensor, the screen is cleared.
 Colour sensor
 -------------
 
-Connect the color sensor to port 3
+Connect the color sensor to port 3.
 When you place a blue LEGO brick in front of the sensor, it says *blue*.
 When you place a red LEGO brick in front of the sensor, it says *red*.
 
 .. image:: sensor2.png
 
 
-Write sensors values to screen
-------------------------------
+Show values to the screen
+-------------------------
 
 You can use a **forever** loop to write the sensor values to the screen.
 

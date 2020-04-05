@@ -1,6 +1,8 @@
 Motors
 ======
 
+Motors let you move your robot.
+
 Display a welcome screen
 ------------------------
 
@@ -9,6 +11,9 @@ It is always good to give the user some hints about what the program is doing.
 Let's explain how to use the 3 buttons to control the large motor on port A.
 
 .. image:: motor1.png
+
+Move a motor
+------------
 
 Now let's use the buttons to make the motor move.
 
@@ -25,7 +30,7 @@ Change motor speed
 Make a new program called **motor2**.
 This time we will include that name in the welcome screen.
 
-We are going the UP/DOWN button to increase or decrease the speed.
+We are going to use the **up/down** button to increase or decrease the speed.
 For this we will need a variable **speed**.
 
 .. image:: motor2.png

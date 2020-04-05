@@ -7,11 +7,11 @@ The EV3 brick can produce sounds.
 Play a melody
 -------------
 
-Let's program the musical score of *Frère Jacques* a popular French song.
+Let's program the musical score of *Frère Jacques*, a popular French song.
 
 .. image:: jacques.gif
 
-We start the first measure when pressing the center button.
+We start playing the first measure when pressing the center button.
 
 .. image:: music1.png
 
@@ -84,9 +84,3 @@ Finally we program the **left/right** buttons to increase or decrease the volume
 You can download this file.
 
 :download:`lego-music.uf2 <lego-music.uf2>`
-
-
-
-
-
-

@@ -6,6 +6,9 @@
 Welcome to EV3 MakeCode
 =======================
 
+Learn to program the LEGO EV3 MINDSTORMS robot 
+by assembling graphical control blocks.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
